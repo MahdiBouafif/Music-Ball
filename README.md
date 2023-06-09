@@ -5,6 +5,8 @@
 
 Music-Ball is an interactive Unity project that brings a new twist to the world of music visualization. With Music-Ball, you can watch balls bouncing on a wall in sync with the beat of your favorite songs. It's a fun and immersive experience that combines music and visuals in a unique way.
 
+**Created in the Summer of 2022**
+
 ## Installation
 
 To run Music-Ball, follow these steps:
